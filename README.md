@@ -4,7 +4,7 @@ DISCLAIMER: THIS PROJECT SHOULD NOT BE USED TO GUIDE YOUR INVESTMENT OR FINANCIA
 
 This is my first attempt at making a stock price prediction tool using machine learning. 
 
-Is it accurate with it’s predictions? Not even close actually, but it does work and I learned a lot so I consider this a successful project. Over time I’ll be revising and updating this project so that it continually improves and grows more accurate over time.
+Is it accurate with it’s predictions? Not even close, but it does work and I learned a lot so I consider this a successful project. Over time I’ll be revising and updating this project so that it continually improves and grows more accurate over time.
 
 The next step is to find a way to include public sentiment of a given stock into the equation, which (in theory) should make it much more accurate.
 
